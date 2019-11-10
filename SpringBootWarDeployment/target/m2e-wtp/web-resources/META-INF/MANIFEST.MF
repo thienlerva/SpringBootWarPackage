@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: SpringBootWarDeployment
+Implementation-Version: 0.0.1
+Built-By: thienle
+Implementation-Vendor-Id: com.javasampleapproach.wardeployment
+Build-Jdk: 1.8.0_191
+Implementation-URL: http://projects.spring.io/spring-boot/SpringBootWa
+ rDeployment/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
