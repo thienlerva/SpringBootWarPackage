@@ -25,4 +25,6 @@ public class HomeController {
         model.put("counter", counter.get());
         return "view-page";
     }
+    
+    
 }
